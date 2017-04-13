@@ -1,0 +1,8 @@
+<body>
+
+<script type="text/python"> 
+name = imput("What is your name? ")
+print("Hello" + name + " my name is Patricia. It is nice to meet you.")
+
+</script>
+</body>
