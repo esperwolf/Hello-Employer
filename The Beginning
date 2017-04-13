@@ -1,8 +1,12 @@
+<header> Welcome Employer </header>
 <body>
 
 <script type="text/python"> 
-name = imput("What is your name? ")
-print("Hello" + name + " my name is Patricia. It is nice to meet you.")
+name = input("What is your name? ")
+print("Hello" + name + ", my name is Patricia. It is nice to meet you.")
+print("I made this program for people like you" + name + ". It helps to showcase some of my more basic skills and will help you to get to know me better. That way you will know if I am the right girl for the job.")
+print("So what would you like to know first" + name + "?")
+
 
 </script>
 </body>
